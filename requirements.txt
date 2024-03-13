@@ -1,5 +1,11 @@
 openai
 langchain
-steramlit
+streamlit
 python-dotenv
 PyPdf2
+
+
+
+
+
+-e .
